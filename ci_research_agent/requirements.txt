@@ -1,0 +1,12 @@
+# Core Langchain
+langchain==0.3.25
+langchain-core==0.3.59
+langchain-community==0.3.24
+langchain-anthropic==0.3.7
+langchain-openai==0.3.11
+
+# Web search
+ddgs==9.10.0
+# Utilities
+python-dotenv>=1.0.0
+ipykernel==7.1.0
